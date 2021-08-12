@@ -29,3 +29,20 @@ están en cada una de las bodegas y esto no permite tener un control exacto del
 inventario en bodega, generando errores a la hora de generar las ventas ya que o
 no se encuentra el producto que el cliente necesita o este se encuentra en otra
 bodega.
+
+### Alcance Del Proyecto
+
+En este proyecto se desarrollará un aplicativo para mejorar la gestión del personal
+y manejo del inventario en bodega llevando con mas exactitud el manejo y las
+cantidades de los materiales existente en bodega, generando mejoras y avances a
+la hora de entregar los materiales a los respectivos clientes, y así poder crear
+historiales de ingresos y salida de los materiales, también poder llevar un control
+de los empleados y su cargo.
+
+### Justificacion
+
+El aplicativo mejorara la trazabilidad en la captación de información de sus
+empleados y el cargo al que responde y además se llevara un control sobre el
+ingreso y la salida de materia de sus diferentes bodegas con un código y hora del
+ingreso o despacho de dichos productos.
+
